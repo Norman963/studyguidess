@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "color": "bg-amber-100"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game based on Tetris but on a hexagon.",
+    "url": "https://hextris.io/",
+    "category": "Arcade",
+    "color": "bg-indigo-100"
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and beat the competition.",
+    "url": "https://paper-io.com/",
+    "category": "Action",
+    "color": "bg-red-100"
+  },
+  {
+    "id": "chroma",
+    "title": "Chroma",
+    "description": "A relaxing color matching game.",
+    "url": "https://chroma.pazru.com/",
+    "category": "Puzzle",
+    "color": "bg-emerald-100"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "The legendary bird is back. How far can you fly?",
+    "url": "https://flappybird.io/",
+    "category": "Arcade",
+    "color": "bg-sky-100"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world's most popular puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Classic",
+    "color": "bg-blue-100"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Waka waka! Eat the pellets and avoid the ghosts.",
+    "url": "https://video-game-hosting.vercel.app/pacman/index.html",
+    "category": "Classic",
+    "color": "bg-yellow-100"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Classic logic game. Don't click the mines!",
+    "url": "https://minesweeper.online/game/101",
+    "category": "Puzzle",
+    "color": "bg-gray-200"
+  }
+]
